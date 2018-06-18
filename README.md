@@ -1,3 +1,3 @@
 Creating a new branch is quick and simple.
-add 11.
+merge one 1.
 # gitskills
